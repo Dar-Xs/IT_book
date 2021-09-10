@@ -23,7 +23,7 @@
   - [数据分析与爬虫](#数据分析与爬虫)
 - [人工智能AI系列](#人工智能AI系列)
   - [计算机视觉](#计算机视觉)
-  - [OpenCv](#OpenCv)
+  - [OpenCV](#OpenCV)
   - [深度学习框架-tensorflow](#深度学习框架-tensorflow)
   - [深度学习框架-pytorch](#深度学习框架-pytorch)
   - [深度学习框架-keras](#深度学习框架-keras)
@@ -146,7 +146,7 @@
 - 图像处理分析与机器视觉(第二版)中译本     [百度云下载链接](https://pan.baidu.com/s/19cXcCHFyBcEf1giY_tyEwg)  密码:u6i6
 - python计算机视觉     [百度云下载链接](https://pan.baidu.com/s/13YYkO2XrLwrS9uzavQIDnA)  密码:6gx2
 
-### OpenCv
+### OpenCV
 - OpenCV-Python-Tutorial-中文版     [百度云下载链接](https://pan.baidu.com/s/1OyE0XoTQzJ_iQD3TziltZg)  密码:b3pn
 - 学习OpenCV 3 中文版     [百度云下载链接](https://pan.baidu.com/s/1ignJ07VCNLbMvJM3OWD3gA)  密码:3s4s
 
@@ -304,7 +304,6 @@
 - JavaScript高效图形编程     [百度云下载链接](https://pan.baidu.com/s/1yj4mh_aC8dXsIJn09UWPQQ)  密码:hxhk
 - jQuery权威指南     [百度云下载链接](https://pan.baidu.com/s/1e_bo4bQmBB1rrkAwB9xZ3Q)  密码:jgsq
 - Node.js开发指南     [百度云下载链接](https://pan.baidu.com/s/1GJ_dmgJMM6Bb2zBsOeH7hw)  密码:4bie
-- HTML5揭秘     [百度云下载链接](https://pan.baidu.com/s/1TfP15JglC7rgI_M1UaIimQ)  密码:g3av
 
 # Linux
 - Linux系统命令及shell脚本实践指南linuxunix技术丛书     [百度云下载链接](https://pan.baidu.com/s/1G1EI-amN7DN5Vuz8NLztKA )  密码:9d27
